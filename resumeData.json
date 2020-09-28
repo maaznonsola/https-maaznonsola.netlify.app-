@@ -1,0 +1,114 @@
+{
+  "main": {
+    "name": "Maaz Nonsola",
+    "occupation": "Front-End Web Developer",
+    "description": "Front-End Web Developer and enthusiastic to learn new technologies",
+    "image": "nmy.jpg",
+    "bio": "My name is Maaz Nonsola. I am a Web Developer. I'm currently pursuing a Bachelor's degree in Computer Science at Rizvi College of Engineering.Hobbies include Sports, Programing, Gaming. ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "connect.nonsola@gmail.com",
+    "phone": "+91 80 973 88368",
+    "address": {
+      "street": "Aarey Colony, Goregaon(E)",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "zip": "400 065"
+    },
+    "website": "https://maaznonsola.ml/",
+    "resumedownload": "https://drive.google.com/file/d/17_RZI1dduhMyGqiJJpsC4WvFTvfYPRSw/view?usp=drivesdk",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/maaznonsola1",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://in.linkedin.com/in/maaznonsola",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/maaznonsola/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/maaznonsola",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Rizvi College of Engineering",
+        "degree": "Bachelor of Engineering in Computer Science",
+        "graduated": "June 2021",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Fadushot",
+        "title": "Team Member && Web Developer",
+        "years": "August 2019 - Present",
+        "description": "Client-side Website Handling "
+      },
+      {
+        "company": "Freelance",
+        "title": "web Developer",
+        "years": "January 2019 - Present",
+        "description": "Creating, modifying and handling the websites for clients."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Wordpress",
+        "level": "60%"
+      },
+      {
+        "name": "Cloud",
+        "level": "70%"
+      },
+      {
+        "name": "SQL",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "My Portfolio Website",
+        "category": "Website created using HTML5, CSS, Javascript",
+        "image": "front.jpg",
+        "url": "https://maaznonsola.ml"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Testimonial from clients are written here",
+        "user": "Client Name"
+      }
+      
+    ]
+  }
+}
